@@ -1,2 +1,3 @@
 # Tugas-WGTIK_Fatah Putra
-Membuat program data mahasiswa menggunakan GO Language
+Saya Fatah Putra Purnama, saya membuat program data mahasiswa menggunakan GO Language untuk memeuhi salah satu tugas WGTIK.
+
